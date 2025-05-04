@@ -1,0 +1,23 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dados e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do VS Code
+.vscode/
